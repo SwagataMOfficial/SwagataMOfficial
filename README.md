@@ -1,7 +1,7 @@
 # Hi, I'm Swagata Mukherjee! 👋
 
 ## 🚀 About Me
-I'm a student of Techno India Hooghly Campus. Currently I'm pursuing BCA. 
+I'm graduated from Techno India Hooghly Campus and currently pursuing Testing full stack internship from Qspiders Kolkata.
 
 ## 🚀 My Objective
 I’m looking for an opportunity to use my skills and knowledge to contribute for the organization I’m working in. I’m eager to learn new technologies continuously and I’m willing to tackle new challenges. I like to cross my boundaries to test out my limitations.
@@ -21,7 +21,7 @@ I’m looking for an opportunity to use my skills and knowledge to contribute fo
 
 ### 🛠 Web Development
 
-**Client:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS.
+**Client:** HTML, CSS, JavaScript, React, React-Redux-Toolkit, Tailwind CSS.
 
 **Server:** Php, Laravel, MySQL.
 
