@@ -1,23 +1,32 @@
 # Hi, I'm Swagata Mukherjee! 👋
 
-## 🚀 About Me
-I'm graduated from Techno India Hooghly Campus and currently pursuing Testing full stack internship from Qspiders Kolkata.
+## 👋 About Me
+Hi, I’m a passionate Software Test Engineer & Web Developer with a strong foundation in computer applications and a growing specialization in Artificial Intelligence.
+- 🎓 Education: BCA graduate from Techno India Hooghly Campus, currently pursuing MCA (AI specialization) from Chandigarh University.
+- ✅ Certifications: ISTQB Certified  NCFM Certified (Financial Markets & Mutual Funds modules).
+- 💼 Experience:
+- 6 months internship + training at Qspiders (Manual, Automation & API Testing).
+- 1 year of professional testing experience across two projects: TransUnion CIBIL (5 months) & Nuvama Trading Application (6 months).
+- 🧪 Testing Skills: Manual & Automation Testing  API Testing  Agile Methodology  Java Selenium  Python Selenium.
+- 🌐 Development Skills: Built multiple projects using MERN stack, PHP, Laravel, React+PHP, Django, and classic HTML/CSS/JS.
+- 📈 Domain Knowledge: Capital Markets & NBFS.
+- 🗣️ Soft Skills: Strong communication, presentation, and mailing skills. Quick learner, adaptable, and always eager to explore new technologies.
+I thrive on challenges, love pushing boundaries, and believe in continuous learning. Whether it’s testing complex systems or building web applications, I aim to deliver quality and innovation.
 
-## 🚀 My Objective
-I’m looking for an opportunity to use my skills and knowledge to contribute for the organization I’m working in. I’m eager to learn new technologies continuously and I’m willing to tackle new challenges. I like to cross my boundaries to test out my limitations.
+✨ Let’s connect and build something impactful together!
 
-## Highlights
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel framework
-- 💞️ I’m looking to collaborate on any company
-- 📫 Contact: ---
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've learned React and my next goal is to learn Mern Stack.
 
-## 🛠 Skills
+## 🛠 Technical Skills
 - C
 - Java
 - Python
+- HTML, CSS, JS
+- PHP
+
+## 🛠 Non-Technical Skills
+- Good Communication
+- Active listener
+- Quick learner
 
 ### 🛠 Web Development
 
